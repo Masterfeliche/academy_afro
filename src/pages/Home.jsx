@@ -57,7 +57,7 @@ const Home = () => {
             <div className="bg-light p-8 rounded shadow-md">
               <h2 className="text-3xl font-bold text-primary mb-6 border-b-2 border-secondary inline-block pb-2">About Our Academy</h2>
               <p className="text-gray-700 text-lg mb-6 leading-relaxed">
-                At <span className="font-bold text-dark">AFRO-EURO Soccer Academy</span>, we are more than just a training ground—we are a community of passionate athletes, mentors, and dreamers united by the love of the game.
+                AT <span className="font-bold text-dark">AFRO-EURO Soccer Academy</span>, we are more than just a training ground—we are a community of passionate athletes, mentors, and dreamers united by the love of the game.
               </p>
 
               <div className="space-y-6">
