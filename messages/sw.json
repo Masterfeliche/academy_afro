@@ -1,0 +1,466 @@
+{
+  "site": {
+    "tagline": "Maendeleo ya kipekee ya soka la vijana — mizizi ya Tanzania na uzoefu wa kimataifa.",
+    "legalName": "Afro Euro Sports Agency"
+  },
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu",
+    "programs": "Mipango",
+    "fees": "Ada",
+    "donation": "Malipo & msaada",
+    "gallery": "Picha",
+    "coaches": "Makocha",
+    "trials": "Usajili",
+    "contact": "Wasiliana",
+    "cta": "Jisajili",
+    "brandSubtitle": "Soccer Academy"
+  },
+  "common": {
+    "learnMore": "Jifunze zaidi",
+    "viewAll": "Ona maelezo kamili",
+    "getStarted": "Anza",
+    "contactUs": "Wasiliana nasi",
+    "submit": "Tuma",
+    "sending": "Inatumwa…",
+    "successTitle": "Asante",
+    "successBody": "Tumepokea ujumbe wako na tutajibu hivi karibuni."
+  },
+  "attribution": {
+    "photoBy": "Picha na",
+    "on": "kwenye",
+    "placeholder": "Picha ya muda — badilisha na picha rasmi za academy unapopatikana.",
+    "local": "Picha rasmi — AFROEURO Soccer Academy"
+  },
+  "home": {
+    "hero": {
+      "kicker": "AFROEURO Soccer Academy · Afro Euro Sports Agency",
+      "title": "Kipaji, nidhamu, na fursa — ndani na nje ya uwanja.",
+      "subtitle": "Tunaendeleza vijana kuelekea ufadhili wa masomo na kazi za michezo, kwa mazoezi yaliyopangwa, usalama wa mtoto, na uzoefu wa kimataifa.",
+      "primaryCta": "Anza usajili",
+      "secondaryCta": "Chunguza mipango"
+    },
+    "stats": {
+      "registration": "Usajili wa Baraza la Michezo",
+      "weekly": "Siku za mazoezi kwa wiki",
+      "phases": "Awamu za mazoezi kwa mwaka",
+      "pathway": "Mizizi ya hapa · njia ya dunia"
+    },
+    "why": {
+      "title": "Kwa nini AFROEURO",
+      "subtitle": "Taasisi ya michezo iliyosajiliwa inachanganya mbinu za kipekee na matokeo ya jamii kote Tanzania.",
+      "coaching": {
+        "title": "Maendeleo yaliyopangwa",
+        "body": "Awamu wazi za mwaka, ratiba ya kila wiki, na mazoezi ya likizo — familia zinajua kinachotarajiwa."
+      },
+      "pathway": {
+        "title": "Ufadhili na kazi",
+        "body": "Tunasaidia vijana wenye vipaji kutumia michezo kupata ufadhili wa masomo na kuendesha maisha kupitia mpira na zaidi."
+      },
+      "discipline": {
+        "title": "Athari ya jamii",
+        "body": "Kupitia michezo tunawavuta vijana kwenye afya, nidhamu, na uvumilivu — tukishughulikia umaskini, dawa za kulevya, na mengine kwa elimu na uongozi."
+      },
+      "exposure": {
+        "title": "Uzoefu wa kimataifa",
+        "body": "Uhusiano na vilabu nje ya nchi na matamasha ya vijana yanapanua ulimwengu zaidi ya ligi ya ndani."
+      }
+    },
+    "programsPreview": {
+      "title": "Mpango wa maendeleo ya vijana",
+      "subtitle": "Ratiba wazi, mahitaji wazi, na mazingira salama kwa kila mchezaji."
+    },
+    "programCards": {
+      "pathway": {
+        "badge": "Dhamira",
+        "title": "Kutoka kipaji hadi fursa",
+        "desc": "Kugundua, kukuza, na kuendeleza wachezaji vijana kuelekea viwango vya kimataifa huku tukiimarisha jamii kupitia michezo.",
+        "cta": "Tazama jinsi tunavyofundisha"
+      },
+      "structure": {
+        "badge": "Kalenda",
+        "title": "Awamu mbili, mazoezi matatu kwa wiki",
+        "desc": "Januari–Mei na Julai–Novemba na mazoezi Jumatano, Jumamosi, na Jumapili — pamoja na vipindi vya likizo.",
+        "cta": "Tazama ratiba"
+      },
+      "global": {
+        "badge": "Ushirikiano",
+        "title": "Vilabu na matamasha nje ya nchi",
+        "desc": "Tumejenga uhusiano na vilabu vikuu na kushiriki matamasha ya kimataifa ya vijana katika nchi mbalimbali.",
+        "cta": "Ufikiaji wa kimataifa"
+      },
+      "welfare": {
+        "badge": "Ulinzi",
+        "title": "Usalama wa mtoto na afya kwanza",
+        "desc": "Walezi walioidhinishwa, usimamizi wa mazoezi, ukweli wa taarifa za afya, na huduma ya kwanza uwanjani.",
+        "cta": "Maelezo ya ulinzi"
+      }
+    },
+    "partnersPreview": {
+      "eyebrow": "Uzoefu wa kimataifa",
+      "title": "Vilabu, maeneo, na matamasha",
+      "subtitle": "Tumehusika na njia za kitaalamu nje ya nchi na kushiriki matamasha ya kimataifa ya vijana — kwa uadilifu na uwakika kwa wachezaji wetu.",
+      "cta": "Soma hadithi yetu",
+      "clubsTitle": "Uhusiano wa vilabu",
+      "regionsTitle": "Ushirikiano wa Ulaya",
+      "regionsBody": "Tumeunganisha na vilabu na academy nyingi Ulaya — kubadilishana ujifunzi na mazungumzo ya muda mrefu.",
+      "tournamentsTitle": "Matamasha ya kimataifa",
+      "tournamentsBody": "Wachezaji wetu wameshiriki matamasha na mashindano ya vijana nje ya Tanzania, ikiwa ni pamoja na maeneo haya."
+    },
+    "safetyPreview": {
+      "title": "Ulinzi na ustawi",
+      "subtitle": "Kila mtoto anafanya mazoezi katika mazingira yaliyosimamiwa na sheria wazi za kuwasili na kubeba na uwazi wa afya.",
+      "cta": "Mipango na ustawi",
+      "items": {
+        "guardians": {
+          "title": "Walezi walioidhinishwa",
+          "body": "Mtoto lazima aletwe na kuondolewa na mtu aliyeandikwa kwenye fomu ya usajili. Ni watu walioainishwa tu wanaweza kumchukua mtoto."
+        },
+        "supervision": {
+          "title": "Usimamizi wa mazoezi",
+          "body": "Kuna usimamizi maalum wakati wa mazoezi kulinda wachezaji na kuunga mkono makocha."
+        },
+        "health": {
+          "title": "Ufunuo wa afya",
+          "body": "Wazazi wanatoa taarifa sahihi za kimatibabu — ikiwa ni pamoja na magonjwa ya moyo, asthma, au sickle cell — ili tuwe salama. Huduma ya kwanza ipo uwanjani."
+        }
+      }
+    },
+    "feesPreview": {
+      "title": "Ada wazi kwa Shillingi ya Tanzania",
+      "subtitle": "Vitu vya usajili vimeorodheshwa wazi. Kwa sasa kuanza kulipa ni fomu na mchango wa huduma ya kwanza.",
+      "note": "Jezi na vifaa vingine vina ratiba kama ofisi itakavyoeleza.",
+      "initialLabel": "Kifurushi cha sasa",
+      "initialHint": "Fomu ya usajili + huduma ya kwanza",
+      "monthlyLabel": "Mazoezi wakati wa shule",
+      "perMonth": "kwa mwezi",
+      "cta": "Ratiba kamili ya ada"
+    },
+    "galleryPreview": {
+      "title": "Utamaduni wa mazoezi",
+      "subtitle": "Nidhamu, furaha, na hamu — kupitia picha kutoka uwanjani."
+    },
+    "coachesPreview": {
+      "title": "Timu ya uongozi",
+      "subtitle": "Wafanyakazi wenye uzoefu waliojitolea ustawi na maendeleo ya kiufundi ya wachezaji."
+    },
+    "donationPreview": {
+      "title": "Malipo rasmi & msaada",
+      "subtitle": "Lipa ada kwa usalama kupitia CRDB au pata njia ya kuimarisha mipango ya vijana.",
+      "cta": "Maelezo ya malipo"
+    },
+    "testimonials": {
+      "title": "Sauti za jamii",
+      "subtitle": "Familia na washirika wanaothamini mazoezi yaliyopangwa na mawasiliano ya uwazi."
+    },
+    "finalCta": {
+      "title": "Jiunge na kuingia kinachoifuata",
+      "subtitle": "Maliza usajili, kukutana na timu yetu, na kuhakikisha nafasi ya mtoto katika mpango uliojengwa kwa usalama na malengo.",
+      "primary": "Usajili",
+      "secondary": "Wasiliana na ofisi"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "AFROEURO Soccer Academy",
+      "subtitle": "Uso wa hadhara wa Afro Euro Sports Agency — taasisi ya michezo iliyosajiliwa Tanzania inayoendeleza soka la vijana kwa uaminifu."
+    },
+    "legal": {
+      "title": "Usajili wa kisheria",
+      "body": "Afro Euro Sports Agency imesajiliwa na Baraza la Michezo la Taifa (BMT) chini ya nambari ya usajili NSC 146."
+    },
+    "story": {
+      "title": "Sisi ni nani",
+      "p1": "Afro Euro Sports Agency ipo kugundua, kukuza, na kuendeleza vipaji vya michezo Tanzania kuelekea viwango vya kimataifa — huku tukitumia michezo kuimarisha jamii zinazokumbana na changamoto za kijamii na mazingira.",
+      "p2": "Tukifanya kazi hadharani kama AFROEURO Soccer Academy, tunachanganya maendeleo ya vijana na elimu ya afya, nidhamu, na fursa — kuwasaidia vijana kujinua kupitia mpira."
+    },
+    "mission": {
+      "title": "Dhamira",
+      "body": "Kuwaamisha vijana wenye vipaji kufuatilia ufadhili wa masomo na kazi endelevu za michezo kupitia ukocha wa kitaalamu, ulinzi wa watoto, na njia wazi."
+    },
+    "vision": {
+      "title": "Dira",
+      "body": "Tanzania ambapo kila mchezaji aliyejitolea — bila kujali asili — anaweza kupata mazoezi ya hali ya juu, uongozi wa kweli, na njia halisi za elimu na ajira."
+    },
+    "impact": {
+      "title": "Athari ya jamii",
+      "body": "Tunatumia mpira kushughulikia umaskini, hatari za afya, na shinikizo la kijamii — ikiwa ni pamoja na dawa za kulevya — kwa kufundisha nidhamu, timu, na stadi za maisha pamoja na mafunzo ya kiufundi."
+    },
+    "values": {
+      "title": "Maadili makuu",
+      "discipline": "Nidhamu",
+      "respect": "Heshima",
+      "courage": "Ujasiri",
+      "excellence": "Ubora",
+      "unity": "Umoja"
+    },
+    "partnerships": {
+      "title": "Uhusiano wa kimataifa",
+      "body": "Tumejenga uhusiano na vilabu kama Azam FC, Valencia FC, na mtandao wa academy ya FC Barcelona nchini Nigeria. Pia tuna uhusiano na vilabu Norway, Sweden, Poland, na Hungary. Wachezaji wetu wanashiriki matamasha na mashindano ya kimataifa ya vijana — ikiwa ni pamoja na South Africa na Dubai — kupanua ndoto na malengo.",
+      "clubsHeading": "Uhusiano wa vilabu",
+      "regionsHeading": "Masoko ya Ulaya",
+      "festivalsHeading": "Maeneo ya matamasha"
+    },
+    "why": {
+      "title": "Kwa nini AFROEURO muhimu",
+      "body": "Wazazi wanapata uwazi wa ada na ratiba. Wachezaji wanafanya mazoezi katika utamaduni unaotaka ubora huku ukiwalinda watoto. Washirika wanakutana na taasisi iliyosajiliwa Tanzania na iliyojitolea maendeleo ya kiadili."
+    }
+  },
+  "programs": {
+    "hero": {
+      "title": "Mpango wa maendeleo ya vijana",
+      "subtitle": "Muundo wa mwaka, mzunguko wa wiki, mazoezi ya likizo, na matarajio wazi kwa kila familia."
+    },
+    "mediaStrip": {
+      "eyebrow": "Ndani ya academy",
+      "title": "Mazoezi yenye hadhi ya juu",
+      "subtitle": "Mazoezi halisi, uwanja halisi, maendeleo halisi — mazingira tunayojenga kwa kila mchezaji."
+    },
+    "sections": {
+      "overview": {
+        "title": "Muhtasari wa mpango",
+        "body": "Mpango wa AFROEURO unaendeshwa katika awamu kubwa mbili kila mwaka: Januari hadi Mei, na Julai hadi Novemba. Mazoezi ni siku tatu kwa wiki ili kusawazisha shule, ibada, na mapumziko huku maendeleo ya kiufundi yakiendelea."
+      },
+      "phases": {
+        "title": "Kalenda ya mazoezi ya mwaka",
+        "body": "Awamu A: Januari – Mei.\nAwamu B: Julai – Novemba.\nKati ya awamu tunatoa taarifa wazi kuhusu mapumziko na shughuli za hiari ili familia zipange."
+      },
+      "weekly": {
+        "title": "Ratiba ya wiki",
+        "body": "Siku za mazoezi: Jumatano, Jumamosi, na Jumapili.\nJumamosi na Jumapili asubuhi: 07:00 – 09:00 (saa za ndani).\nBaadhi ya vikundi vinaweza kufanya jioni kwenye wikiendi ili kulingana na ratiba za kanisa — kocha atathibitisha.\nJumatano ni jioni tu."
+      },
+      "holiday": {
+        "title": "Mazoezi ya likizo",
+        "body": "Wakati wa likizo ya shule, mazoezi ni Jumatatu hadi Ijumaa kuanzia 07:00 – 09:00. Wikiendi ni mapumziko.\nDirisha mbili za Desemba hutangazwa kila mwaka (mfano Des 1–15 na Des 8–19) kulingana na tofauti za kufunga shule — thibitisha tarehe kamili na ofisi kila mwaka."
+      },
+      "requirements": {
+        "title": "Mahitaji ya mchezaji",
+        "body": "Viatu vya mpira (njumu), jezi rasmi yenye nembo yetu, maji kila mazoezi, soksi ndefu za mpira, na shin guard. Makocha wanaweza kupendekeza vingine kadri maendeleo yanavyoendelea."
+      },
+      "safety": {
+        "title": "Usalama wa mtoto na walezi",
+        "body": "Kila mtoto lazima afike na aondoke na mlezi aliyeidhinishwa kwenye fomu ya usajili. Kuchukuliwa kunafanywa na watu walioainishwa tu. Msimamizi anasaidia ulinzi wakati wa mazoezi."
+      },
+      "health": {
+        "title": "Afya na huduma ya kwanza",
+        "body": "Taarifa za kimatibabu kwenye fomu lazima ziwe sahihi. Tafadhali eleza hali kama magonjwa ya moyo, asthma, au sickle cell — usifiche kinachoweza kuathiri usalama wa mtoto. Huduma ya kwanza inapatikana uwanjani."
+      }
+    }
+  },
+  "fees": {
+    "hero": {
+      "title": "Ada na malipo",
+      "subtitle": "Kila kiasi kwa Shillingi ya Tanzania (TZS). Afro Euro Sports Agency inachapisha gharama kwa uwazi ili familia zipange."
+    },
+    "intro": "Hapa chini kuna ada rasmi zinazohusiana na usajili. Academy inaweza kutangaza hatua za malipo — kwa mfano kuanza na fomu na mchango wa huduma ya kwanza katika dirisha lililotangazwa.",
+    "lines": {
+      "title": "Vitu vinavyohusiana na usajili",
+      "registrationForm": "Fomu ya usajili",
+      "firstAid": "Mchango wa huduma ya kwanza",
+      "uniform": "Jezi ya academy (yenye nembo)",
+      "longSocks": "Soksi ndefu za mpira"
+    },
+    "initial": {
+      "title": "Malipo ya kuingia sasa",
+      "body": "Kwa kipindi kilichotangazwa, familia huanza na fomu ya usajili na kifurushi cha huduma ya kwanza hapa chini. Vitu vingine vina ratiba kama ofisi itakavyoeleza.",
+      "deadline": "Imetangazwa hadi {date} — thibitisha na academy ikiwa kimeongezwa."
+    },
+    "monthly": {
+      "title": "Ada ya mazoezi wakati wa shule",
+      "body": "Shule zikifunguliwa, ada ya kila mwezi ni kama ilivyo hapa chini isipokuwa tangazo lingine.",
+      "perMonth": "/ mwezi"
+    },
+    "holiday": {
+      "title": "Mpango wa mazoezi ya likizo",
+      "body": "Mazoezi ya likizo yanalipiwa kulingana na dirisha lililotangazwa (kawaida awamu mbili za Desemba). Ada inayoonekana ni kwa mpango wa likizo ulioelezwa kila msimu.",
+      "forProgram": "kwa kipindi cha likizo kilichotangazwa"
+    },
+    "once": {
+      "title": "Ada za usajili hazijadaiwi mara mbili",
+      "body": "Mara kifurushi kamili cha usajili kilipolipwa kulingana na sera ya academy, ada hizo za usajili hazitajadiliwa tena kwa mchezaji huyo huyo."
+    },
+    "cta": {
+      "title": "Maswali?",
+      "subtitle": "Ofisi yetu inaweza kukuongoza kuhusu malipo, jezi, na chaguo za likizo.",
+      "primary": "Wasiliana na ofisi",
+      "secondary": "Fungua fomu ya usajili"
+    }
+  },
+  "donation": {
+    "hero": {
+      "title": "Malipo & msaada",
+      "subtitle": "Malipo rasmi kupitia CRDB kwa Afro Euro Sports Agency — pamoja na njia washirika wanavyoweza kuimarisha maendeleo ya vijana."
+    },
+    "impact": {
+      "title": "Malipo yako yanachochea nini",
+      "body": "Ada zinafadhili ukocha, ulinzi, viwanja, na ushiriki wa matamasha. Washirika wanaotaka kusponsor ufadhili au vifaa huimarisha upatikanaji kwa familia zinazohitaji zaidi."
+    },
+    "purposes": {
+      "scholarships": {
+        "title": "Upatikanaji & ufadhili",
+        "body": "Msaada maalum unaweza kusaidia wachezaji kulipa ada au safari za uzoefu wa kimataifa."
+      },
+      "equipment": {
+        "title": "Vifaa & viwanja",
+        "body": "Michango inadumisha ubora wa mazoezi — kutoka mipira na mabao hadi uwanja salama."
+      },
+      "travel": {
+        "title": "Mashindano nje ya nchi",
+        "body": "Matamasha ya kimataifa yanahitaji mipango makini; washirika husaidia ushiriki bila kuathiri usalama wa watoto."
+      }
+    },
+    "bank": {
+      "title": "Maelezo rasmi ya benki",
+      "subtitle": "Tumia jina la mtoto au kumbukumbu ya ankara kama ofisi itakavyoeleza.",
+      "copy": "Nakili nambari ya akaunti",
+      "copied": "Imenakiliwa!",
+      "fields": {
+        "bankName": "Benki",
+        "accountName": "Jina la akaunti",
+        "accountNumber": "Nambari ya akaunti"
+      }
+    },
+    "instructions": {
+      "title": "Baada ya kulipa",
+      "body": "Tuma risiti ya benki kwa barua pepe au WhatsApp ofisini ili tuweze kuthibitisha na kusasisha faili ya mchezaji. Tuwasiliane ikiwa unahitaji msaada na kumbukumbu."
+    },
+    "thanks": {
+      "title": "Asante",
+      "body": "AFROEURO ipo kwa sababu familia zinatuamini watoto wao na washirika wanaamini vipaji vya Tanzania. Tunatumia kila mchango kwa uwazi."
+    }
+  },
+  "gallery": {
+    "hero": {
+      "title": "Matunzio",
+      "subtitle": "Picha kutoka mazoezi — nidhamu, nishati, na malengo."
+    }
+  },
+  "coaches": {
+    "hero": {
+      "title": "Ukocha & uongozi",
+      "subtitle": "Wasifu wa timu kamili ya kiufundi watajazwa maelezo yatakapokamilika. Muundo huu uko tayari kwa picha halisi."
+    },
+    "badge": "Wasifu wa mfanyakazi"
+  },
+  "trials": {
+    "hero": {
+      "title": "Usajili",
+      "subtitle": "Tuambie kuhusu mchezaji na watu walioidhinishwa kubeba. Tutawasiliana na hatua zinazofuata."
+    },
+    "form": {
+      "playerName": "Jina kamili la mchezaji",
+      "age": "Umri",
+      "dob": "Tarehe ya kuzaliwa",
+      "position": "Nafasi unayopenda",
+      "parentName": "Mzazi / mlezi mkuu",
+      "pickupName": "Anayeoruhusiwa kubeba (ikiwa ni tofauti)",
+      "pickupNote": "Andika wengine wanaoruhusiwa kumchukua mtoto baada ya mazoezi.",
+      "phone": "Nambari ya simu",
+      "email": "Barua pepe",
+      "experience": "Uzoefu wa klabu / mpira wa shule",
+      "program": "Maslahi ya mpango",
+      "health": "Taarifa za afya (moyo, asthma, sickle cell, mzio…)",
+      "healthHint": "Eleza kwa ukweli — hii inalinda mtoto wakati wa mazoezi.",
+      "emergencyPhone": "Simu ya dharura",
+      "notes": "Kingine chochote tunapaswa kujua?",
+      "selectProgram": "Chagua lengo",
+      "selectPosition": "Chagua nafasi",
+      "positions": {
+        "gk": "Kipa",
+        "def": "Mlinzi",
+        "mid": "Kiungo",
+        "fwd": "Mshambuliaji",
+        "flex": "Rafiki / bado sijasema"
+      },
+      "programs": {
+        "foundation": "Maendeleo ya vijana (wakati wa shule)",
+        "elite": "Mazoezi ya likizo",
+        "goalkeeper": "Msaada wa kipa",
+        "camps": "Maandalizi ya tamasha la kimataifa",
+        "unsure": "Sijui — nipe ushauri"
+      }
+    },
+    "validation": {
+      "required": "Sehemu hii inahitajika",
+      "email": "Weka barua pepe halali",
+      "phone": "Weka nambari halali ya simu",
+      "age": "Weka umri halali (5–21)"
+    },
+    "success": {
+      "title": "Taarifa zimepokelewa",
+      "body": "Ofisi itakagua usajili wako na kuwasiliana kuhusu ratiba, malipo, na taarifa za ulinzi."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Wasiliana na AFROEURO",
+      "subtitle": "Usajili, ada, ushirikiano, au vyombo vya habari — tunajibu haraka iwezekanavyo."
+    },
+    "card": {
+      "title": "Ofisi ya academy",
+      "hours": "Jumatatu–Jumamosi · 09:00–18:00 (EAT)",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Jina kamili",
+      "email": "Barua pepe",
+      "phone": "Simu",
+      "topic": "Mada",
+      "selectTopic": "Chagua mada",
+      "message": "Ujumbe",
+      "topics": {
+        "admissions": "Usajili & kuingia",
+        "partnerships": "Ushirikiano",
+        "media": "Vyombo vya habari",
+        "other": "Nyingine"
+      }
+    },
+    "validation": {
+      "required": "Sehemu hii inahitajika",
+      "email": "Weka barua pepe halali"
+    }
+  },
+  "footer": {
+    "blurb": "Maendeleo ya soka la vijana yaliyosajiliwa na Afro Euro Sports Agency — AFROEURO Soccer Academy.",
+    "legal": "Afro Euro Sports Agency · BMT / NSC 146 · Tanzania",
+    "quick": "Viungo vya haraka",
+    "contact": "Wasiliana",
+    "rights": "Haki zote zimehifadhiwa."
+  },
+  "coach": {
+    "director": {
+      "name": "Uongozi (utatangazwa)",
+      "role": "Mkurugenzi wa academy",
+      "bio": "Wasifu kamili na picha zitatangazwa hapa. Nafasi inasimamia usajili, ulinzi, na elimu ya makocha."
+    },
+    "methodology": {
+      "name": "Kiufundi (kutatangazwa)",
+      "role": "Mkuu wa mbinu",
+      "bio": "Anasimamia muundo wa mazoezi kulingana na kalenda ya mwaka na ratiba ya wiki."
+    },
+    "goalkeeping": {
+      "name": "Kipa (kutatangazwa)",
+      "role": "Maendeleo ya kipa",
+      "bio": "Msaada maalum wa kuzuia, usambazaji, na ujasiri katika mpira wa kisasa."
+    },
+    "performance": {
+      "name": "Viungo (kutatangazwa)",
+      "role": "Maandalizi ya mwili",
+      "bio": "Mazoezi yanayofaa umri yanayounganisha mpira na kupunguza majeraha."
+    }
+  },
+  "testimonial": {
+    "parent": {
+      "quote": "Ratiba iko wazi, ada zimeelezwa kwa TZS, na mtoto anajisalama kwa sababu sheria za kubeba ni kali.",
+      "name": "Mzazi · Dar es Salaam"
+    },
+    "player": {
+      "quote": "Makocha wanatusukuma lakini pia huelezea kwa nini tunafanya mazoezi — naona ninaboreka kila wiki.",
+      "name": "Mchezaji mdogo"
+    },
+    "supporter": {
+      "quote": "Kumsaidia taasisi iliyosajiliya inayowekeza watoto na jamii ni jambo tunalofurahia.",
+      "name": "Mshirika wa jamii"
+    }
+  }
+}

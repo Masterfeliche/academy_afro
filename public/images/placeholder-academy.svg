@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1F5C"/>
+      <stop offset="55%" stop-color="#091224"/>
+      <stop offset="100%" stop-color="#0B1F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#g)"/>
+  <circle cx="960" cy="520" r="180" stroke="#F47A20" stroke-width="6" fill="none" opacity="0.35"/>
+  <path d="M960 380v280M780 520h360" stroke="#F8FAFC" stroke-width="4" opacity="0.2" stroke-linecap="round"/>
+  <text x="960" y="820" text-anchor="middle" fill="#F8FAFC" font-family="system-ui,sans-serif" font-size="42" opacity="0.5">AFROEURO</text>
+</svg>

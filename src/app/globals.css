@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --ae-primary: #0b1f5c;
+  --ae-accent: #f47a20;
+  --ae-base: #040a14;
+  --ae-surface: #0c1829;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-brand-base text-brand-ink antialiased;
+}
+
+::selection {
+  background: rgba(244, 122, 32, 0.35);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .glass {
+    @apply border border-white/10 bg-white/5 backdrop-blur-xl;
+  }
+  .gradient-hero {
+    background: linear-gradient(
+      120deg,
+      rgba(4, 10, 20, 0.94) 0%,
+      rgba(11, 31, 92, 0.5) 45%,
+      rgba(4, 10, 20, 0.92) 100%
+    );
+  }
+}

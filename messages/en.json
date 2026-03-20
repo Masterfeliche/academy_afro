@@ -1,0 +1,466 @@
+{
+  "site": {
+    "tagline": "Elite youth football development with Tanzanian roots and international exposure.",
+    "legalName": "Afro Euro Sports Agency"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "fees": "Fees",
+    "donation": "Payment & support",
+    "gallery": "Gallery",
+    "coaches": "Coaches",
+    "trials": "Registration",
+    "contact": "Contact",
+    "cta": "Register",
+    "brandSubtitle": "Soccer Academy"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewAll": "View full details",
+    "getStarted": "Get started",
+    "contactUs": "Contact us",
+    "submit": "Submit",
+    "sending": "Sending…",
+    "successTitle": "Thank you",
+    "successBody": "We received your message and will respond shortly."
+  },
+  "attribution": {
+    "photoBy": "Photo by",
+    "on": "on",
+    "placeholder": "Placeholder imagery — replace with official academy photography when available.",
+    "local": "Official photography — AFROEURO Soccer Academy"
+  },
+  "home": {
+    "hero": {
+      "kicker": "AFROEURO Soccer Academy · Afro Euro Sports Agency",
+      "title": "Talent, discipline, and opportunity — on and off the pitch.",
+      "subtitle": "We develop young athletes toward scholarships and careers in sport, with structured training, child safety, and real international exposure.",
+      "primaryCta": "Start registration",
+      "secondaryCta": "Explore programs"
+    },
+    "stats": {
+      "registration": "National Sports Council registration",
+      "weekly": "Training days per week",
+      "phases": "Annual training phases",
+      "pathway": "Local roots · global pathway"
+    },
+    "why": {
+      "title": "Why AFROEURO",
+      "subtitle": "A registered sports institution combining elite methodology with community impact across Tanzania.",
+      "coaching": {
+        "title": "Structured development",
+        "body": "Clear annual phases, weekly rhythm, and holiday intensives — so families always know what to expect."
+      },
+      "pathway": {
+        "title": "Scholarships & careers",
+        "body": "We help talented youth use sport to access education funding and build livelihoods in football and beyond."
+      },
+      "discipline": {
+        "title": "Social impact",
+        "body": "Through sport we engage young people on health, discipline, and resilience — addressing challenges from poverty to substance use with education and mentorship."
+      },
+      "exposure": {
+        "title": "International exposure",
+        "body": "Relationships with clubs abroad and participation in international youth festivals broaden horizons beyond the domestic game."
+      }
+    },
+    "programsPreview": {
+      "title": "Youth development program",
+      "subtitle": "Transparent schedules, clear requirements, and a safe environment for every player."
+    },
+    "programCards": {
+      "pathway": {
+        "badge": "Mission",
+        "title": "From talent to opportunity",
+        "desc": "Discover, nurture, and advance youth athletes toward international standards while strengthening communities through sport.",
+        "cta": "See how we train"
+      },
+      "structure": {
+        "badge": "Calendar",
+        "title": "Two phases, three sessions weekly",
+        "desc": "January–May and July–November with Wednesday, Saturday, and Sunday training — plus focused holiday blocks.",
+        "cta": "View schedule"
+      },
+      "global": {
+        "badge": "Partnerships",
+        "title": "Clubs & festivals abroad",
+        "desc": "We have built relationships with leading clubs and take part in international youth tournaments across several countries.",
+        "cta": "International reach"
+      },
+      "welfare": {
+        "badge": "Safeguarding",
+        "title": "Child safety & health first",
+        "desc": "Authorized guardians, supervised sessions, honest health disclosure, and first aid at training.",
+        "cta": "Safeguarding details"
+      }
+    },
+    "partnersPreview": {
+      "eyebrow": "International exposure",
+      "title": "Clubs, regions, and festivals",
+      "subtitle": "We have engaged with professional pathways abroad and participated in international youth festivals — always with careful, ethical representation of our players.",
+      "cta": "Read our story",
+      "clubsTitle": "Club relationships",
+      "regionsTitle": "European engagement",
+      "regionsBody": "We have built connections with clubs and academies in multiple European countries — creating learning exchanges and long-term dialogue.",
+      "tournamentsTitle": "International festivals",
+      "tournamentsBody": "Our players have taken part in youth tournaments and festivals outside Tanzania, including in the locations below."
+    },
+    "safetyPreview": {
+      "title": "Safeguarding & wellbeing",
+      "subtitle": "Every child trains in a supervised environment with clear rules for drop-off, pickup, and medical transparency.",
+      "cta": "Programs & welfare",
+      "items": {
+        "guardians": {
+          "title": "Authorized guardians",
+          "body": "Children must be brought and collected by adults named on the registration form. Only designated persons may take a child from sessions."
+        },
+        "supervision": {
+          "title": "Session supervision",
+          "body": "Dedicated oversight is in place during training to protect players and support coaches."
+        },
+        "health": {
+          "title": "Health disclosure",
+          "body": "Parents share accurate medical information — including heart conditions, asthma, or sickle cell — so we can respond safely. First aid is available on site."
+        }
+      }
+    },
+    "feesPreview": {
+      "title": "Clear fees in Tanzanian Shillings",
+      "subtitle": "Registration items are listed transparently. Current intake focuses on registration and first-aid fees first.",
+      "note": "Uniform and kit items are scheduled as the program communicates to families.",
+      "initialLabel": "Current intake bundle",
+      "initialHint": "Registration form + first aid",
+      "monthlyLabel": "School-term training",
+      "perMonth": "per month",
+      "cta": "Full fee schedule"
+    },
+    "galleryPreview": {
+      "title": "Training culture",
+      "subtitle": "Discipline, joy, and ambition — captured in moments from the pitch."
+    },
+    "coachesPreview": {
+      "title": "Leadership team",
+      "subtitle": "Experienced staff committed to player welfare and technical growth."
+    },
+    "donationPreview": {
+      "title": "Official payments & support",
+      "subtitle": "Pay fees securely via CRDB or explore how you can strengthen our youth programs.",
+      "cta": "Payment details"
+    },
+    "testimonials": {
+      "title": "Community voices",
+      "subtitle": "Families and partners who value structured training and honest communication."
+    },
+    "finalCta": {
+      "title": "Join the next intake",
+      "subtitle": "Complete registration, meet our team, and secure your child’s place in a program built on safety and ambition.",
+      "primary": "Registration",
+      "secondary": "Contact office"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "AFROEURO Soccer Academy",
+      "subtitle": "The public face of Afro Euro Sports Agency — a registered Tanzanian sports institution developing youth football with integrity."
+    },
+    "legal": {
+      "title": "Legal registration",
+      "body": "Afro Euro Sports Agency is registered with the National Sports Council (Baraza la Michezo la Taifa, BMT) under registration number NSC 146."
+    },
+    "story": {
+      "title": "Who we are",
+      "p1": "Afro Euro Sports Agency exists to discover, nurture, and advance athletic talent in Tanzania toward international standards — while using sport to strengthen communities facing social and environmental challenges.",
+      "p2": "Operating publicly as AFROEURO Soccer Academy, we combine structured youth development with education on health, discipline, and opportunity — helping young people lift themselves through football."
+    },
+    "mission": {
+      "title": "Mission",
+      "body": "Empower talented youth to pursue scholarships and sustainable careers in sport through professional coaching, safeguarding, and transparent pathways."
+    },
+    "vision": {
+      "title": "Vision",
+      "body": "A Tanzania where every committed young athlete — regardless of background — can access world-class training, honest mentorship, and real routes to education and employment."
+    },
+    "impact": {
+      "title": "Social impact",
+      "body": "We use football to address poverty, health risks, and social pressures — including substance misuse — by teaching discipline, teamwork, and life skills alongside technical training."
+    },
+    "values": {
+      "title": "Core values",
+      "discipline": "Discipline",
+      "respect": "Respect",
+      "courage": "Courage",
+      "excellence": "Excellence",
+      "unity": "Unity"
+    },
+    "partnerships": {
+      "title": "International relationships",
+      "body": "We have built relationships with clubs such as Azam FC, Valencia FC, and FC Barcelona’s academy network in Nigeria. We also engage with clubs across Norway, Sweden, Poland, and Hungary. Our players participate in international youth festivals and tournaments — including events in South Africa and Dubai — broadening perspective and ambition.",
+      "clubsHeading": "Club relationships",
+      "regionsHeading": "European markets",
+      "festivalsHeading": "Festival locations"
+    },
+    "why": {
+      "title": "Why AFROEURO matters",
+      "body": "Parents receive clarity on fees and schedules. Players train in a culture that demands excellence while protecting childhood. Partners meet an organization registered in Tanzania and committed to ethical development."
+    }
+  },
+  "programs": {
+    "hero": {
+      "title": "Youth development program",
+      "subtitle": "Annual structure, weekly rhythm, holiday intensives, and clear expectations for every family."
+    },
+    "mediaStrip": {
+      "eyebrow": "Inside the academy",
+      "title": "Training that looks and feels elite",
+      "subtitle": "Real sessions, real pitches, real development — the environment we build for every player."
+    },
+    "sections": {
+      "overview": {
+        "title": "Program overview",
+        "body": "AFROEURO’s youth development program runs in two major phases each year: January through May, and July through November. Training is delivered three days per week to balance school, worship, and recovery while maintaining technical progress."
+      },
+      "phases": {
+        "title": "Annual training calendar",
+        "body": "Phase A: January – May.\nPhase B: July – November.\nBetween phases we communicate clearly on breaks and optional activities so families can plan ahead."
+      },
+      "weekly": {
+        "title": "Weekly schedule",
+        "body": "Training days: Wednesday, Saturday, and Sunday.\nSaturday & Sunday mornings: 07:00 – 09:00 (local time).\nSome groups may train in the evening on weekends to align with church commitments — your coach will confirm.\nWednesday sessions take place in the evening only."
+      },
+      "holiday": {
+        "title": "Holiday training",
+        "body": "During school holidays, training runs Monday – Friday from 07:00 – 09:00. Weekends are rest days.\nTwo holiday windows are published each December (for example 1–15 December and 8–19 December) to reflect different school closing dates — confirm exact dates with the office each year."
+      },
+      "requirements": {
+        "title": "What players need",
+        "body": "Football boots (cleats), official academy uniform with our emblem, drinking water at every session, long football socks, and shin guards. Coaches may advise additional items as players progress."
+      },
+      "safety": {
+        "title": "Child safety & guardians",
+        "body": "Every child must arrive and leave with an authorized guardian listed on the registration form. Pickup may only be performed by designated adults. A dedicated supervisor supports safeguarding during sessions."
+      },
+      "health": {
+        "title": "Health & first aid",
+        "body": "Medical information on the registration form must be accurate. Please disclose conditions such as heart disease, asthma, or sickle cell — never hide information that could affect your child’s safety. Qualified first aid support is available at training venues."
+      }
+    }
+  },
+  "fees": {
+    "hero": {
+      "title": "Fees & payments",
+      "subtitle": "All figures in Tanzanian Shillings (TZS). Afro Euro Sports Agency publishes costs openly so families can plan with confidence."
+    },
+    "intro": "Below are the official registration-related fees. The academy may communicate payment milestones — for example beginning with registration and first-aid contributions during an announced intake window.",
+    "lines": {
+      "title": "Registration-related items",
+      "registrationForm": "Registration form",
+      "firstAid": "First aid contribution",
+      "uniform": "Academy uniform (with emblem)",
+      "longSocks": "Long football socks"
+    },
+    "initial": {
+      "title": "Current intake payment",
+      "body": "For the published intake period, families begin with the registration form and first-aid bundle below. Other items are scheduled as communicated by the office.",
+      "deadline": "Published through {date} — confirm with the academy if extended."
+    },
+    "monthly": {
+      "title": "School-term training fee",
+      "body": "When schools reopen, monthly training is billed at the rate below unless otherwise announced.",
+      "perMonth": "/ month"
+    },
+    "holiday": {
+      "title": "Holiday training program",
+      "body": "Holiday intensives are billed per published window (typically two December phases). Fee shown is for the structured holiday program communicated each season.",
+      "forProgram": "per published holiday block"
+    },
+    "once": {
+      "title": "Registration fees are not duplicated",
+      "body": "Once the full registration package has been paid according to academy policy, those registration charges are not billed again for the same player."
+    },
+    "cta": {
+      "title": "Questions?",
+      "subtitle": "Our office can walk you through payment timing, uniform fitting, and holiday options.",
+      "primary": "Contact the office",
+      "secondary": "Open registration form"
+    }
+  },
+  "donation": {
+    "hero": {
+      "title": "Payment & support",
+      "subtitle": "Official CRDB payments for Afro Euro Sports Agency — plus ways partners strengthen youth development."
+    },
+    "impact": {
+      "title": "What your payments enable",
+      "body": "Fees fund coaching, safeguarding, facilities, and tournament participation. Partners who wish to sponsor bursaries or equipment strengthen access for families who need extra support."
+    },
+    "purposes": {
+      "scholarships": {
+        "title": "Access & scholarships",
+        "body": "Directed support can help talented players cover fees or travel for international exposure."
+      },
+      "equipment": {
+        "title": "Kit & facilities",
+        "body": "Contributions maintain training quality — from balls and goals to safe playing surfaces."
+      },
+      "travel": {
+        "title": "Tournaments abroad",
+        "body": "International festivals require careful planning; partners help make participation possible without compromising child safety."
+      }
+    },
+    "bank": {
+      "title": "Official bank details",
+      "subtitle": "Use your child’s name or invoice reference in the transfer narration when instructed by the office.",
+      "copy": "Copy account number",
+      "copied": "Copied!",
+      "fields": {
+        "bankName": "Bank",
+        "accountName": "Account name",
+        "accountNumber": "Account number"
+      }
+    },
+    "instructions": {
+      "title": "After you pay",
+      "body": "Email or WhatsApp your bank slip to the academy office so we can confirm receipt and update your player file. Reach out anytime if you need help with references."
+    },
+    "thanks": {
+      "title": "Thank you",
+      "body": "AFROEURO exists because families trust us with their children and because partners believe in Tanzanian talent. We steward every contribution with transparency."
+    }
+  },
+  "gallery": {
+    "hero": {
+      "title": "Gallery",
+      "subtitle": "Moments from training — discipline, energy, and ambition."
+    }
+  },
+  "coaches": {
+    "hero": {
+      "title": "Coaching & leadership",
+      "subtitle": "Profiles will feature our full technical staff as bios are finalized. The structure below keeps layouts ready for real photography."
+    },
+    "badge": "Staff profile"
+  },
+  "trials": {
+    "hero": {
+      "title": "Registration",
+      "subtitle": "Tell us about the player and the adults authorized for pickup. We will contact you with next steps."
+    },
+    "form": {
+      "playerName": "Player full name",
+      "age": "Age",
+      "dob": "Date of birth",
+      "position": "Preferred position",
+      "parentName": "Primary parent / guardian",
+      "pickupName": "Authorized pickup (if different)",
+      "pickupNote": "List anyone else allowed to collect the player after training.",
+      "phone": "Phone number",
+      "email": "Email",
+      "experience": "Previous club / school football experience",
+      "program": "Program interest",
+      "health": "Health information (heart, asthma, sickle cell, allergies…)",
+      "healthHint": "Disclose honestly — this keeps your child safe during training.",
+      "emergencyPhone": "Emergency contact phone",
+      "notes": "Anything else we should know?",
+      "selectProgram": "Select a focus",
+      "selectPosition": "Select a position",
+      "positions": {
+        "gk": "Goalkeeper",
+        "def": "Defender",
+        "mid": "Midfielder",
+        "fwd": "Forward",
+        "flex": "Flexible / undecided"
+      },
+      "programs": {
+        "foundation": "Youth development (term time)",
+        "elite": "Holiday intensive",
+        "goalkeeper": "Goalkeeper support",
+        "camps": "International festival prep",
+        "unsure": "Not sure — advise me"
+      }
+    },
+    "validation": {
+      "required": "This field is required",
+      "email": "Enter a valid email",
+      "phone": "Enter a valid phone number",
+      "age": "Enter a valid age (5–21)"
+    },
+    "success": {
+      "title": "Details received",
+      "body": "Our office will review your registration and contact you with schedules, payment steps, and safeguarding information."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact AFROEURO",
+      "subtitle": "Admissions, fees, partnerships, or media — we respond as quickly as we can."
+    },
+    "card": {
+      "title": "Academy office",
+      "hours": "Mon–Sat · 09:00–18:00 (EAT)",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "topic": "Topic",
+      "selectTopic": "Select a topic",
+      "message": "Message",
+      "topics": {
+        "admissions": "Registration & intake",
+        "partnerships": "Partnerships",
+        "media": "Media",
+        "other": "Other"
+      }
+    },
+    "validation": {
+      "required": "This field is required",
+      "email": "Enter a valid email"
+    }
+  },
+  "footer": {
+    "blurb": "Registered youth football development by Afro Euro Sports Agency — AFROEURO Soccer Academy.",
+    "legal": "Afro Euro Sports Agency · BMT / NSC 146 · Tanzania",
+    "quick": "Quick links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "coach": {
+    "director": {
+      "name": "Leadership (announced)",
+      "role": "Academy director",
+      "bio": "Full biography and portrait will be published here. Role oversees registration, safeguarding alignment, and coach education."
+    },
+    "methodology": {
+      "name": "Technical lead (announced)",
+      "role": "Head of methodology",
+      "bio": "Responsible for session design aligned with the annual calendar and weekly schedule."
+    },
+    "goalkeeping": {
+      "name": "Goalkeeping specialist (announced)",
+      "role": "Goalkeeper development",
+      "bio": "Dedicated support for shot-stopping, distribution, and confidence in modern goalkeeping."
+    },
+    "performance": {
+      "name": "Athletic development (announced)",
+      "role": "Physical preparation",
+      "bio": "Age-appropriate conditioning that complements football training and reduces injury risk."
+    }
+  },
+  "testimonial": {
+    "parent": {
+      "quote": "The schedule is clear, fees are explained in TZS, and my child feels safe because the rules on pickup are strict.",
+      "name": "Parent · Dar es Salaam"
+    },
+    "player": {
+      "quote": "Coaches push us but also explain why we train — I can see myself improving every week.",
+      "name": "Youth player"
+    },
+    "supporter": {
+      "quote": "Supporting a registered agency that invests in kids and communities is something we are proud to do.",
+      "name": "Community partner"
+    }
+  }
+}
