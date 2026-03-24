@@ -45,13 +45,15 @@ export function HomeHero({ image }: Props) {
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <Link
-              href="/trials"
+              href="/registration"
+              prefetch
               className="inline-flex items-center justify-center rounded-full bg-brand-accent px-8 py-3 text-sm font-semibold text-white shadow-premium transition hover:brightness-110"
             >
               {t("primaryCta")}
             </Link>
             <Link
               href="/programs"
+              prefetch
               className="inline-flex items-center justify-center rounded-full border border-white/35 bg-brand-surface/10 px-8 py-3 text-sm font-semibold text-white backdrop-blur-md transition hover:bg-brand-surface/20"
             >
               {t("secondaryCta")}

@@ -49,6 +49,7 @@ export function Navbar() {
             <Link
               key={item.href}
               href={item.href}
+              prefetch
               className="rounded-full px-3 py-2 text-sm font-medium text-brand-ink/80 transition hover:bg-brand-surface hover:text-brand-frost"
             >
               {t(item.key)}
@@ -56,7 +57,8 @@ export function Navbar() {
           ))}
           <LocaleSwitcher />
           <Link
-            href="/trials"
+            href="/registration"
+            prefetch
             className="ml-2 rounded-full bg-brand-accent px-4 py-2 text-sm font-semibold text-white shadow-premium transition hover:brightness-110"
           >
             {t("cta")}
@@ -89,6 +91,7 @@ export function Navbar() {
                 <Link
                   key={item.href}
                   href={item.href}
+                  prefetch
                   className="rounded-2xl px-4 py-3 text-base font-semibold text-brand-ink hover:bg-brand-surface"
                   onClick={() => setOpen(false)}
                 >
@@ -96,7 +99,8 @@ export function Navbar() {
                 </Link>
               ))}
               <Link
-                href="/trials"
+                href="/registration"
+                prefetch
                 className="mt-2 rounded-2xl bg-brand-primary py-3 text-center text-base font-semibold text-white"
                 onClick={() => setOpen(false)}
               >

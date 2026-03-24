@@ -4,7 +4,8 @@ import { FadeIn } from "@/components/motion/FadeIn";
 import { HoverLift } from "@/components/motion/HoverLift";
 import { PageHero } from "@/components/pages/PageHero";
 import { bankDetails } from "@/data/bankDetails";
-import { getDonationImages } from "@/lib/unsplash";
+import { academyContact } from "@/data/contact";
+import { getDonationImages } from "@/data/site-images";
 import { getTranslations } from "next-intl/server";
 
 export default async function DonationPage() {
@@ -75,7 +76,12 @@ export default async function DonationPage() {
       <section className="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8">
         <FadeIn>
           <h2 className="font-display text-3xl text-brand-frost">{t("instructions.title")}</h2>
-          <p className="mt-4 text-brand-muted leading-relaxed">{t("instructions.body")}</p>
+          <p className="mt-4 text-brand-muted leading-relaxed">
+            {t("instructions.body", {
+              email: academyContact.email,
+              phone: academyContact.primaryPhone,
+            })}
+          </p>
           <div className="mt-12 rounded-2xl border border-brand-accent/30 bg-brand-base/80 p-8">
             <h3 className="font-display text-2xl text-brand-frost">{t("thanks.title")}</h3>
             <p className="mt-4 text-brand-muted leading-relaxed">{t("thanks.body")}</p>

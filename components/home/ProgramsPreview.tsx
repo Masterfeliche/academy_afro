@@ -28,6 +28,7 @@ export async function ProgramsPreview({ images }: Props) {
             </div>
             <Link
               href="/programs"
+              prefetch
               className="inline-flex items-center gap-2 self-start rounded-full border border-white/20 px-5 py-2 text-sm font-semibold text-white transition hover:border-brand-accent hover:text-brand-accent"
             >
               <ArrowUpRight className="h-4 w-4" />
@@ -60,6 +61,7 @@ export async function ProgramsPreview({ images }: Props) {
                       </p>
                       <Link
                         href="/programs"
+                        prefetch
                         className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-brand-accent"
                       >
                         {tc(`${id}.cta`)}

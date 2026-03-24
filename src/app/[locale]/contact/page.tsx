@@ -1,8 +1,8 @@
-import { ContactForm } from "@/components/forms/ContactForm";
+import { ContactBranchGrid } from "@/components/contact/ContactBranchGrid";
 import { ImageStrip } from "@/components/media/ImageStrip";
 import { FadeIn } from "@/components/motion/FadeIn";
 import { PageHero } from "@/components/pages/PageHero";
-import { siteConfig } from "@/data/site";
+import { academyContact } from "@/data/contact";
 import { getTranslations } from "next-intl/server";
 import { Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 
@@ -17,47 +17,78 @@ export default async function ContactPage() {
           <ImageStrip startIndex={24} count={6} />
         </div>
       </div>
-      <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
-        <div className="grid gap-12 lg:grid-cols-2">
+
+      <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+        <section className="py-12 sm:py-14 lg:py-16">
           <FadeIn>
-            <div className="rounded-2xl border border-brand-border bg-brand-surface p-8 text-white shadow-premium">
-              <p className="text-xs font-bold uppercase tracking-widest text-brand-accent">{t("card.title")}</p>
-              <p className="mt-2 text-sm text-white/60">{t("card.hours")}</p>
-              <ul className="mt-8 space-y-6 text-sm">
-                <li className="flex gap-3">
-                  <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" />
-                  <span className="text-white/85">
-                    {siteConfig.addressLine1}
-                    <br />
-                    {siteConfig.addressLine2}
-                  </span>
-                </li>
-                <li className="flex gap-3">
-                  <Phone className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" />
-                  <a className="hover:text-brand-accent" href={`tel:${siteConfig.phone.replace(/\s/g, "")}`}>
-                    {siteConfig.phone}
-                  </a>
-                </li>
-                <li className="flex gap-3">
-                  <Mail className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" />
-                  <a className="hover:text-brand-accent" href={`mailto:${siteConfig.email}`}>
-                    {siteConfig.email}
-                  </a>
-                </li>
-                <li className="flex gap-3">
-                  <MessageCircle className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" />
-                  <a className="text-white/85 hover:text-brand-accent" href={siteConfig.whatsapp} target="_blank" rel="noreferrer">
-                    {t("card.whatsapp")}
-                  </a>
-                </li>
-              </ul>
-            </div>
+            <p className="text-xs font-bold uppercase tracking-[0.3em] text-brand-accent">
+              {t("branches.sectionEyebrow")}
+            </p>
+            <h2 className="mt-3 font-display text-3xl text-brand-frost sm:text-4xl lg:text-[2.75rem]">
+              {t("branches.sectionTitle")}
+            </h2>
+            <p className="mt-3 max-w-3xl text-base leading-relaxed text-brand-muted sm:text-lg">
+              {t("branches.sectionLead")}
+            </p>
           </FadeIn>
-          <FadeIn delay={0.06}>
-            <ContactForm />
+          <div className="mt-10 sm:mt-12">
+            <ContactBranchGrid />
+          </div>
+        </section>
+
+        <section className="border-t border-brand-border pb-16 pt-4 sm:pb-20">
+          <FadeIn>
+            <p className="text-xs font-bold uppercase tracking-[0.3em] text-brand-accent">{t("card.sectionEyebrow")}</p>
+            <h2 className="mt-3 font-display text-2xl text-brand-frost sm:text-3xl">{t("card.sectionTitle")}</h2>
           </FadeIn>
-        </div>
-      </section>
+          <div className="mt-8 flex justify-center sm:mt-10">
+            <FadeIn delay={0.05}>
+              <div className="w-full max-w-xl rounded-2xl border border-brand-border bg-brand-surface p-6 text-white shadow-premium sm:p-8 lg:max-w-2xl">
+                <p className="text-sm text-white/60">{t("card.hours")}</p>
+                <ul className="mt-6 space-y-5 text-sm sm:mt-8 sm:space-y-6">
+                  <li className="flex gap-3">
+                    <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" aria-hidden />
+                    <span className="min-w-0 text-white/85">
+                      {academyContact.addressLine1}
+                      <br />
+                      {academyContact.addressLine2}
+                    </span>
+                  </li>
+                  <li className="flex gap-3">
+                    <Phone className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" aria-hidden />
+                    <a className="min-w-0 font-medium hover:text-brand-accent" href={academyContact.telHref}>
+                      {academyContact.primaryPhone}
+                    </a>
+                  </li>
+                  <li className="flex gap-3">
+                    <Mail className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" aria-hidden />
+                    <a
+                      className="min-w-0 break-all font-medium hover:text-brand-accent"
+                      href={`mailto:${academyContact.email}`}
+                    >
+                      {academyContact.email}
+                    </a>
+                  </li>
+                  <li className="flex gap-3">
+                    <MessageCircle className="mt-0.5 h-5 w-5 shrink-0 text-brand-accent" aria-hidden />
+                    <a
+                      className="min-w-0 text-white/85 hover:text-brand-accent"
+                      href={academyContact.whatsappUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      {t("card.whatsapp")}
+                    </a>
+                  </li>
+                </ul>
+                <p className="mt-6 border-t border-white/10 pt-6 text-sm leading-relaxed text-white/70 sm:mt-8">
+                  {t("card.note")}
+                </p>
+              </div>
+            </FadeIn>
+          </div>
+        </section>
+      </div>
     </>
   );
 }

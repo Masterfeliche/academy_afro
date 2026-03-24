@@ -3,14 +3,14 @@ import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
 import { FadeIn } from "@/components/motion/FadeIn";
-import { ACADEMY_PICTURE_FILES, picPath } from "@/data/pics";
+import { ACADEMY_PICTURE_FILES, siteImagePath } from "@/data/site-images";
 import { Link } from "@/i18n/navigation";
 
 export async function SafetyWelfarePreview() {
   const t = await getTranslations("home.safetyPreview");
 
   const items = ["guardians", "supervision", "health"] as const;
-  const cardPhotos = [13, 14, 15] as const;
+  const cardPhotos = [13, 14, 20] as const;
 
   return (
     <section className="bg-gradient-to-b from-brand-base to-brand-surface px-4 py-20 sm:px-6 lg:px-8">
@@ -43,7 +43,7 @@ export async function SafetyWelfarePreview() {
               <article className="flex h-full flex-col overflow-hidden rounded-2xl border border-brand-border bg-brand-surface shadow-card">
                 <div className="relative aspect-[16/10] w-full shrink-0">
                   <Image
-                    src={picPath(ACADEMY_PICTURE_FILES[cardPhotos[i]!]!)}
+                    src={siteImagePath(ACADEMY_PICTURE_FILES[cardPhotos[i]!]!)}
                     alt=""
                     fill
                     sizes="(max-width: 768px) 100vw, 33vw"

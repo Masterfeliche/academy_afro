@@ -1,6 +1,6 @@
 {
   "site": {
-    "tagline": "Elite youth football development with Tanzanian roots and international exposure.",
+    "tagline": "Elite youth football development in Tanzania — scholarships, international exposure, and structured safeguarding.",
     "legalName": "Afro Euro Sports Agency"
   },
   "nav": {
@@ -11,9 +11,9 @@
     "donation": "Payment & support",
     "gallery": "Gallery",
     "coaches": "Coaches",
-    "trials": "Registration",
+    "registration": "How to join",
     "contact": "Contact",
-    "cta": "Register",
+    "cta": "Join by phone",
     "brandSubtitle": "Soccer Academy"
   },
   "common": {
@@ -36,8 +36,8 @@
     "hero": {
       "kicker": "AFROEURO Soccer Academy · Afro Euro Sports Agency",
       "title": "Talent, discipline, and opportunity — on and off the pitch.",
-      "subtitle": "We develop young athletes toward scholarships and careers in sport, with structured training, child safety, and real international exposure.",
-      "primaryCta": "Start registration",
+      "subtitle": "We develop young athletes toward education funding and careers in sport — with disciplined training, child safety, and measured international exposure.",
+      "primaryCta": "How to join",
       "secondaryCta": "Explore programs"
     },
     "stats": {
@@ -156,7 +156,7 @@
     "finalCta": {
       "title": "Join the next intake",
       "subtitle": "Complete registration, meet our team, and secure your child’s place in a program built on safety and ambition.",
-      "primary": "Registration",
+      "primary": "How to join",
       "secondary": "Contact office"
     }
   },
@@ -171,12 +171,12 @@
     },
     "story": {
       "title": "Who we are",
-      "p1": "Afro Euro Sports Agency exists to discover, nurture, and advance athletic talent in Tanzania toward international standards — while using sport to strengthen communities facing social and environmental challenges.",
-      "p2": "Operating publicly as AFROEURO Soccer Academy, we combine structured youth development with education on health, discipline, and opportunity — helping young people lift themselves through football."
+      "p1": "Afro Euro Sports Agency is a legally registered sports institution (Baraza la Michezo la Taifa / BMT, registration NSC 146). We discover, nurture, and advance athletic talent in Tanzania toward international standards — and use sport to help communities respond to challenges such as environmental change, poverty, illness, alcohol and substance misuse, through education and pathways built around football.",
+      "p2": "Publicly known as AFROEURO Soccer Academy, we combine structured youth development with honest communication on health, discipline, and opportunity — so families understand fees, schedules, and safeguarding from day one."
     },
     "mission": {
       "title": "Mission",
-      "body": "Empower talented youth to pursue scholarships and sustainable careers in sport through professional coaching, safeguarding, and transparent pathways."
+      "body": "Enable talented young people to use their ability to access education funding and build sustainable livelihoods in sport — through professional coaching, child safeguarding, and transparent pathways."
     },
     "vision": {
       "title": "Vision",
@@ -196,7 +196,7 @@
     },
     "partnerships": {
       "title": "International relationships",
-      "body": "We have built relationships with clubs such as Azam FC, Valencia FC, and FC Barcelona’s academy network in Nigeria. We also engage with clubs across Norway, Sweden, Poland, and Hungary. Our players participate in international youth festivals and tournaments — including events in South Africa and Dubai — broadening perspective and ambition.",
+      "body": "We maintain relationships with clubs including Azam FC, Valencia FC, and FC Barcelona’s academy network in Nigeria, as well as engagement with clubs in Norway, Sweden, Poland, Hungary, and other markets. Our players have taken part in international youth tournaments and festivals outside Tanzania — including in South Africa and Dubai — always with careful planning and ethical representation.",
       "clubsHeading": "Club relationships",
       "regionsHeading": "European markets",
       "festivalsHeading": "Festival locations"
@@ -227,15 +227,15 @@
       },
       "weekly": {
         "title": "Weekly schedule",
-        "body": "Training days: Wednesday, Saturday, and Sunday.\nSaturday & Sunday mornings: 07:00 – 09:00 (local time).\nSome groups may train in the evening on weekends to align with church commitments — your coach will confirm.\nWednesday sessions take place in the evening only."
+        "body": "Training days: Wednesday, Saturday, and Sunday.\nSaturday & Sunday mornings: 07:00 – 09:00 East Africa Time (saa 1 – saa 3 asubuhi).\nSome age groups may use evening sessions on weekends to align with church commitments — your coach will confirm.\nWednesday sessions are held in the evening only."
       },
       "holiday": {
         "title": "Holiday training",
-        "body": "During school holidays, training runs Monday – Friday from 07:00 – 09:00. Weekends are rest days.\nTwo holiday windows are published each December (for example 1–15 December and 8–19 December) to reflect different school closing dates — confirm exact dates with the office each year."
+        "body": "During school holidays, training runs Monday – Friday from 07:00 – 09:00 East Africa Time. Weekends are rest days.\nTwo December windows are published each year (for example 1–15 December and 8–19 December) because school closing dates differ — confirm the exact block with the office annually.\nThe published holiday program fee covers the structured two-week intensive communicated for that season."
       },
       "requirements": {
         "title": "What players need",
-        "body": "Football boots (cleats), official academy uniform with our emblem, drinking water at every session, long football socks, and shin guards. Coaches may advise additional items as players progress."
+        "body": "Football boots (cleats), official academy uniform with our emblem, drinking water at every session, long football socks, and shin guards. Coaches may recommend additional items as players progress."
       },
       "safety": {
         "title": "Child safety & guardians",
@@ -252,7 +252,7 @@
       "title": "Fees & payments",
       "subtitle": "All figures in Tanzanian Shillings (TZS). Afro Euro Sports Agency publishes costs openly so families can plan with confidence."
     },
-    "intro": "Below are the official registration-related fees. The academy may communicate payment milestones — for example beginning with registration and first-aid contributions during an announced intake window.",
+    "intro": "Below are the official registration-related fees published by Afro Euro Sports Agency (TZS). For the current intake window, families begin with the registration form and first-aid bundle (TZS 60,000 total) unless the office announces otherwise. Uniform and kit payments follow the schedule communicated to your campus.",
     "lines": {
       "title": "Registration-related items",
       "registrationForm": "Registration form",
@@ -283,7 +283,7 @@
       "title": "Questions?",
       "subtitle": "Our office can walk you through payment timing, uniform fitting, and holiday options.",
       "primary": "Contact the office",
-      "secondary": "Open registration form"
+      "secondary": "How to join (by phone)"
     }
   },
   "donation": {
@@ -322,7 +322,7 @@
     },
     "instructions": {
       "title": "After you pay",
-      "body": "Email or WhatsApp your bank slip to the academy office so we can confirm receipt and update your player file. Reach out anytime if you need help with references."
+      "body": "Email your bank slip to {email} or send it by WhatsApp so we can confirm receipt and update your player file. You can also call {phone} if you need verification or help with references."
     },
     "thanks": {
       "title": "Thank you",
@@ -342,64 +342,84 @@
     },
     "badge": "Staff profile"
   },
-  "trials": {
+  "registration": {
     "hero": {
-      "title": "Registration",
-      "subtitle": "Tell us about the player and the adults authorized for pickup. We will contact you with next steps."
+      "title": "How to Join AFROEURO Soccer Academy 2026",
+      "subtitle": "Choose your campus below. Registration is completed by phone through the academy office — there is no online registration form."
     },
-    "form": {
-      "playerName": "Player full name",
-      "age": "Age",
-      "dob": "Date of birth",
-      "position": "Preferred position",
-      "parentName": "Primary parent / guardian",
-      "pickupName": "Authorized pickup (if different)",
-      "pickupNote": "List anyone else allowed to collect the player after training.",
-      "phone": "Phone number",
-      "email": "Email",
-      "experience": "Previous club / school football experience",
-      "program": "Program interest",
-      "health": "Health information (heart, asthma, sickle cell, allergies…)",
-      "healthHint": "Disclose honestly — this keeps your child safe during training.",
-      "emergencyPhone": "Emergency contact phone",
-      "notes": "Anything else we should know?",
-      "selectProgram": "Select a focus",
-      "selectPosition": "Select a position",
-      "positions": {
-        "gk": "Goalkeeper",
-        "def": "Defender",
-        "mid": "Midfielder",
-        "fwd": "Forward",
-        "flex": "Flexible / undecided"
+    "notice": {
+      "eyebrow": "Important",
+      "phoneOnly": "Registrations are handled by contacting the respective office by phone.",
+      "intro": "Each campus sets its training rhythm and monthly fee. Registration package items (form, first aid, uniform, socks) are listed per branch. Call the number on your campus card for intake timing, payment steps, and safeguarding requirements."
+    },
+    "costs": {
+      "total": "Registration package total",
+      "monthlyLabel": "Monthly training fee",
+      "perMonth": "per month"
+    },
+    "schedule": {
+      "title": "Training rhythm"
+    },
+    "schedules": {
+      "monFri": {
+        "detail": "Monday – Friday training.\nWeekends are reserved for matches where scheduled."
       },
-      "programs": {
-        "foundation": "Youth development (term time)",
-        "elite": "Holiday intensive",
-        "goalkeeper": "Goalkeeper support",
-        "camps": "International festival prep",
-        "unsure": "Not sure — advise me"
+      "wedSatSun": {
+        "detail": "Wednesday, Saturday, and Sunday training.\nYour coach confirms exact session times; weekends may include matches where applicable."
       }
     },
-    "validation": {
-      "required": "This field is required",
-      "email": "Enter a valid email",
-      "phone": "Enter a valid phone number",
-      "age": "Enter a valid age (5–21)"
+    "branches": {
+      "kunduchi": {
+        "eyebrow": "Branch 1",
+        "campus": "Kunduchi Campus",
+        "ageCategory": "Registration categories: U17 & U20",
+        "weekendNote": "Weekends are reserved for matches."
+      },
+      "mabwepande": {
+        "eyebrow": "Branch 2",
+        "campus": "Mabwepande Campus",
+        "ageCategory": "Registration categories: U10 & U15",
+        "weekendNote": "Weekends may include matches where applicable."
+      },
+      "bunju": {
+        "eyebrow": "Branch 3",
+        "campus": "Bunju Campus",
+        "ageCategory": "Registration categories: U10 & U15",
+        "weekendNote": "Weekends may include matches where applicable."
+      }
     },
-    "success": {
-      "title": "Details received",
-      "body": "Our office will review your registration and contact you with schedules, payment steps, and safeguarding information."
+    "callOffice": "Call this campus",
+    "officeNote": "Email {email}, message on WhatsApp, or call {phone}. You can also visit the contact page for branch details.",
+    "cta": {
+      "contact": "Contact page",
+      "call": "Call main office"
     }
   },
   "contact": {
     "hero": {
       "title": "Contact AFROEURO",
-      "subtitle": "Admissions, fees, partnerships, or media — we respond as quickly as we can."
+      "subtitle": "Reach the campus office by phone for registration and enquiries. Official lines are the same for all branches."
+    },
+    "branches": {
+      "sectionEyebrow": "Campus offices",
+      "sectionTitle": "Branch contacts",
+      "sectionLead": "Each campus uses the same official phone and email. For the fastest response on registration and intake, please call.",
+      "inquiryNote": "For registration and inquiries, please contact the branch office by phone.",
+      "kunduchi": { "name": "Kunduchi Campus" },
+      "mabwepande": { "name": "Mabwepande Campus" },
+      "bunju": { "name": "Bunju Campus" }
+    },
+    "labels": {
+      "phone": "Phone",
+      "email": "Email"
     },
     "card": {
-      "title": "Academy office",
+      "sectionEyebrow": "Head office",
+      "sectionTitle": "Location & hours",
+      "title": "Location & hours",
       "hours": "Mon–Sat · 09:00–18:00 (EAT)",
-      "whatsapp": "WhatsApp"
+      "whatsapp": "WhatsApp",
+      "note": "The same official phone and email are used across Kunduchi, Mabwepande, and Bunju. Mention your campus when you call so we can direct you."
     },
     "form": {
       "name": "Full name",

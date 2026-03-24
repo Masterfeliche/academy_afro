@@ -5,7 +5,7 @@ import { FadeIn } from "@/components/motion/FadeIn";
 import { PageHero } from "@/components/pages/PageHero";
 import { feesData } from "@/data/fees";
 import { formatTzs } from "@/lib/money";
-import { getFeesBannerImage } from "@/lib/unsplash";
+import { getFeesBannerImage } from "@/data/site-images";
 import { Link } from "@/i18n/navigation";
 
 export default async function FeesPage() {
@@ -145,7 +145,8 @@ export default async function FeesPage() {
                 {t("cta.primary")}
               </Link>
               <Link
-                href="/trials"
+                href="/registration"
+                prefetch
                 className="rounded-full border border-brand-border px-8 py-3 text-sm font-semibold text-brand-frost transition hover:border-brand-accent"
               >
                 {t("cta.secondary")}

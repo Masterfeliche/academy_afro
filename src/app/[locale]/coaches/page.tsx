@@ -3,7 +3,7 @@ import { FadeIn } from "@/components/motion/FadeIn";
 import { HoverLift } from "@/components/motion/HoverLift";
 import { PageHero } from "@/components/pages/PageHero";
 import { coachIds } from "@/data/coaches";
-import { getCoachPlaceholderImages } from "@/lib/unsplash";
+import { getCoachPlaceholderImages } from "@/data/site-images";
 import { getTranslations } from "next-intl/server";
 
 export default async function CoachesPage() {

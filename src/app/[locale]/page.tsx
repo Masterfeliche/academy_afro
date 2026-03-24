@@ -10,13 +10,13 @@ import { InternationalPartnersPreview } from "@/components/home/InternationalPar
 import { ProgramsPreview } from "@/components/home/ProgramsPreview";
 import { SafetyWelfarePreview } from "@/components/home/SafetyWelfarePreview";
 import { Testimonials } from "@/components/home/Testimonials";
-import { ACADEMY_PICTURE_FILES } from "@/data/pics";
 import {
+  ACADEMY_PICTURE_FILES,
   getCoachPlaceholderImages,
   getGalleryImages,
   getHeroImages,
   getProgramImages,
-} from "@/lib/unsplash";
+} from "@/data/site-images";
 
 export default async function HomePage() {
   const [hero, programImages, galleryImages, coachImages] = await Promise.all([

@@ -13,7 +13,7 @@ export const feesData = {
   initialPayment: {
     amount: 60_000,
     /** ISO date — update when the campaign window changes */
-    validThrough: "2025-11-30",
+    validThrough: "2026-11-30",
   },
   /** When schools are open */
   monthlyTraining: 70_000,

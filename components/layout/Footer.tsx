@@ -1,5 +1,6 @@
 import { getTranslations } from "next-intl/server";
 
+import { academyContact } from "@/data/contact";
 import { mainNav, siteConfig } from "@/data/site";
 import { Link } from "@/i18n/navigation";
 
@@ -30,6 +31,7 @@ export async function Footer() {
               <li key={item.href}>
                 <Link
                   href={item.href}
+                  prefetch
                   className="transition hover:text-white"
                 >
                   {t(`nav.${item.key}`)}
@@ -43,16 +45,16 @@ export async function Footer() {
             {t("footer.contact")}
           </p>
           <ul className="mt-4 space-y-3 text-sm text-white/80">
-            <li>{siteConfig.addressLine1}</li>
-            <li>{siteConfig.addressLine2}</li>
+            <li>{academyContact.addressLine1}</li>
+            <li>{academyContact.addressLine2}</li>
             <li>
-              <a className="hover:text-white" href={`tel:${siteConfig.phone}`}>
-                {siteConfig.phone}
+              <a className="hover:text-white" href={academyContact.telHref}>
+                {academyContact.primaryPhone}
               </a>
             </li>
             <li>
-              <a className="hover:text-white" href={`mailto:${siteConfig.email}`}>
-                {siteConfig.email}
+              <a className="hover:text-white" href={`mailto:${academyContact.email}`}>
+                {academyContact.email}
               </a>
             </li>
           </ul>

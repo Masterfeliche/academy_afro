@@ -1,4 +1,4 @@
-/** Curated search themes for gallery — primary fetch is via `getGalleryImages()` in lib/unsplash.ts */
+/** Curated search themes for gallery — images load via `getGalleryImages()` in data/site-images.ts */
 export const galleryThemes = [
   "youth soccer training",
   "football academy",

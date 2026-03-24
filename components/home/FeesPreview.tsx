@@ -23,6 +23,7 @@ export async function FeesPreview() {
             <p className="mt-6 text-sm text-brand-muted">{t("note")}</p>
             <Link
               href="/fees"
+              prefetch
               className="mt-8 inline-flex rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-white shadow-card transition hover:brightness-110"
             >
               {t("cta")}

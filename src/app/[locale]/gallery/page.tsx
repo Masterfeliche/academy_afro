@@ -1,8 +1,7 @@
 import { AcademyImageFigure } from "@/components/media/AcademyImageFigure";
 import { FadeIn } from "@/components/motion/FadeIn";
 import { PageHero } from "@/components/pages/PageHero";
-import { ACADEMY_PICTURE_FILES } from "@/data/pics";
-import { getGalleryImages } from "@/lib/unsplash";
+import { ACADEMY_PICTURE_FILES, getGalleryImages } from "@/data/site-images";
 import { getTranslations } from "next-intl/server";
 
 export default async function GalleryPage() {

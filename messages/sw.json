@@ -1,6 +1,6 @@
 {
   "site": {
-    "tagline": "Maendeleo ya kipekee ya soka la vijana — mizizi ya Tanzania na uzoefu wa kimataifa.",
+    "tagline": "Maendeleo ya kipekee ya soka la vijana Tanzania — ufadhili, uzoefu wa kimataifa, na ulinzi ulio pangwa.",
     "legalName": "Afro Euro Sports Agency"
   },
   "nav": {
@@ -11,9 +11,9 @@
     "donation": "Malipo & msaada",
     "gallery": "Picha",
     "coaches": "Makocha",
-    "trials": "Usajili",
+    "registration": "Jinsi ya kujiunga",
     "contact": "Wasiliana",
-    "cta": "Jisajili",
+    "cta": "Piga simu kusajili",
     "brandSubtitle": "Soccer Academy"
   },
   "common": {
@@ -36,8 +36,8 @@
     "hero": {
       "kicker": "AFROEURO Soccer Academy · Afro Euro Sports Agency",
       "title": "Kipaji, nidhamu, na fursa — ndani na nje ya uwanja.",
-      "subtitle": "Tunaendeleza vijana kuelekea ufadhili wa masomo na kazi za michezo, kwa mazoezi yaliyopangwa, usalama wa mtoto, na uzoefu wa kimataifa.",
-      "primaryCta": "Anza usajili",
+      "subtitle": "Tunaendeleza vijana kuelekea ufadhili wa masomo na ajira katika michezo — kwa mazoezi yenye nidhamu, usalama wa mtoto, na uzoefu wa kimataifa unaopimwa.",
+      "primaryCta": "Jinsi ya kujiunga",
       "secondaryCta": "Chunguza mipango"
     },
     "stats": {
@@ -156,7 +156,7 @@
     "finalCta": {
       "title": "Jiunge na kuingia kinachoifuata",
       "subtitle": "Maliza usajili, kukutana na timu yetu, na kuhakikisha nafasi ya mtoto katika mpango uliojengwa kwa usalama na malengo.",
-      "primary": "Usajili",
+      "primary": "Jinsi ya kujiunga",
       "secondary": "Wasiliana na ofisi"
     }
   },
@@ -171,12 +171,12 @@
     },
     "story": {
       "title": "Sisi ni nani",
-      "p1": "Afro Euro Sports Agency ipo kugundua, kukuza, na kuendeleza vipaji vya michezo Tanzania kuelekea viwango vya kimataifa — huku tukitumia michezo kuimarisha jamii zinazokumbana na changamoto za kijamii na mazingira.",
-      "p2": "Tukifanya kazi hadharani kama AFROEURO Soccer Academy, tunachanganya maendeleo ya vijana na elimu ya afya, nidhamu, na fursa — kuwasaidia vijana kujinua kupitia mpira."
+      "p1": "Afro Euro Sports Agency ni kituo cha michezo kilichosajiliwa kisheria na Baraza la Michezo la Taifa (BMT), nambari ya usajili NSC 146. Tunavumbua, kukuza, na kuendeleza vipaji vya wanamichezo nchini kufikia viwango vya kimataifa, na kutumia michezo kusaidia jamii za Tanzania kukabiliana na mabadiliko ya mazingira, umaskini, magonjwa, ulevi, na madawa ya kulevya — kwa elimu na njia zinazozingatia mpira.",
+      "p2": "Kwa jina la hadhara AFROEURO Soccer Academy, tunachanganya maendeleo ya vijana na mawasiliano wazi kuhusu afya, nidhamu, na fursa — ili familia zielewe ada, ratiba, na ulinzi tangu siku ya kwanza."
     },
     "mission": {
       "title": "Dhamira",
-      "body": "Kuwaamisha vijana wenye vipaji kufuatilia ufadhili wa masomo na kazi endelevu za michezo kupitia ukocha wa kitaalamu, ulinzi wa watoto, na njia wazi."
+      "body": "Kuwapa vijana wenye vipaji uwezo wa kutumia kipaji chao kupata ufadhili wa masomo na ajira endelevu katika michezo — kupitia ukocha wa kitaalamu, ulinzi wa watoto, na njia wazi."
     },
     "vision": {
       "title": "Dira",
@@ -196,7 +196,7 @@
     },
     "partnerships": {
       "title": "Uhusiano wa kimataifa",
-      "body": "Tumejenga uhusiano na vilabu kama Azam FC, Valencia FC, na mtandao wa academy ya FC Barcelona nchini Nigeria. Pia tuna uhusiano na vilabu Norway, Sweden, Poland, na Hungary. Wachezaji wetu wanashiriki matamasha na mashindano ya kimataifa ya vijana — ikiwa ni pamoja na South Africa na Dubai — kupanua ndoto na malengo.",
+      "body": "Tuna uhusiano na vilabu ikiwa ni pamoja na Azam FC, Valencia FC, na tawi la academy ya FC Barcelona nchini Nigeria, pamoja na uhusiano na vilabu Norway, Sweden, Poland, Hungary, na mengine. Wachezaji wetu wameshiriki matamasha na mashindano ya kimataifa ya vijana nje ya Tanzania — ikiwa ni pamoja na South Africa na Dubai — kwa mipango makini na uwakika kwa wachezaji.",
       "clubsHeading": "Uhusiano wa vilabu",
       "regionsHeading": "Masoko ya Ulaya",
       "festivalsHeading": "Maeneo ya matamasha"
@@ -227,11 +227,11 @@
       },
       "weekly": {
         "title": "Ratiba ya wiki",
-        "body": "Siku za mazoezi: Jumatano, Jumamosi, na Jumapili.\nJumamosi na Jumapili asubuhi: 07:00 – 09:00 (saa za ndani).\nBaadhi ya vikundi vinaweza kufanya jioni kwenye wikiendi ili kulingana na ratiba za kanisa — kocha atathibitisha.\nJumatano ni jioni tu."
+        "body": "Siku za mazoezi: Jumatano, Jumamosi, na Jumapili.\nJumamosi na Jumapili asubuhi: 07:00 – 09:00 EAT (saa 1 – saa 3 asubuhi).\nBaadhi ya vikundi vinaweza kutumia mazoezi ya jioni kwenye wikiendi kulingana na ratiba za kanisa — kocha atathibitisha.\nJumatano ni jioni tu."
       },
       "holiday": {
         "title": "Mazoezi ya likizo",
-        "body": "Wakati wa likizo ya shule, mazoezi ni Jumatatu hadi Ijumaa kuanzia 07:00 – 09:00. Wikiendi ni mapumziko.\nDirisha mbili za Desemba hutangazwa kila mwaka (mfano Des 1–15 na Des 8–19) kulingana na tofauti za kufunga shule — thibitisha tarehe kamili na ofisi kila mwaka."
+        "body": "Wakati wa likizo ya shule, mazoezi ni Jumatatu hadi Ijumaa kuanzia 07:00 – 09:00 EAT. Wikiendi ni mapumziko.\nDirisha mbili za Desemba hutangazwa kila mwaka (mfano Des 1–15 na Des 8–19) kwa sababu shule hufunga tofauti — thibitisha kipindi halisi na ofisi kila mwaka.\nAda ya likizo inayotangazwa inahusisha mpango wa mazoezi ya wiki mbili ulioelezwa kwa msimu huo."
       },
       "requirements": {
         "title": "Mahitaji ya mchezaji",
@@ -252,7 +252,7 @@
       "title": "Ada na malipo",
       "subtitle": "Kila kiasi kwa Shillingi ya Tanzania (TZS). Afro Euro Sports Agency inachapisha gharama kwa uwazi ili familia zipange."
     },
-    "intro": "Hapa chini kuna ada rasmi zinazohusiana na usajili. Academy inaweza kutangaza hatua za malipo — kwa mfano kuanza na fomu na mchango wa huduma ya kwanza katika dirisha lililotangazwa.",
+    "intro": "Hapa chini kuna ada rasmi zinazohusiana na usajili zilizochapishwa na Afro Euro Sports Agency (TZS). Kwa dirisha la sasa la kuingia, familia huanza na fomu ya usajili na kifurushi cha huduma ya kwanza (TZS 60,000 jumla) isipokuwa ofisi itangaze tofauti. Malipo ya jezi na vifaa yanafuata ratiba itakayoelezwa kwa kila campus.",
     "lines": {
       "title": "Vitu vinavyohusiana na usajili",
       "registrationForm": "Fomu ya usajili",
@@ -283,7 +283,7 @@
       "title": "Maswali?",
       "subtitle": "Ofisi yetu inaweza kukuongoza kuhusu malipo, jezi, na chaguo za likizo.",
       "primary": "Wasiliana na ofisi",
-      "secondary": "Fungua fomu ya usajili"
+      "secondary": "Jinsi ya kujiunga (kwa simu)"
     }
   },
   "donation": {
@@ -322,7 +322,7 @@
     },
     "instructions": {
       "title": "Baada ya kulipa",
-      "body": "Tuma risiti ya benki kwa barua pepe au WhatsApp ofisini ili tuweze kuthibitisha na kusasisha faili ya mchezaji. Tuwasiliane ikiwa unahitaji msaada na kumbukumbu."
+      "body": "Tuma risiti ya benki kwa barua pepe {email} au WhatsApp ili tuweze kuthibitisha na kusasisha faili ya mchezaji. Unaweza pia kupiga {phone} ikiwa unahitaji uthibitisho au msaada na kumbukumbu."
     },
     "thanks": {
       "title": "Asante",
@@ -342,64 +342,84 @@
     },
     "badge": "Wasifu wa mfanyakazi"
   },
-  "trials": {
+  "registration": {
     "hero": {
-      "title": "Usajili",
-      "subtitle": "Tuambie kuhusu mchezaji na watu walioidhinishwa kubeba. Tutawasiliana na hatua zinazofuata."
+      "title": "Utaratibu wa Kujiunga na AFROEURO Soccer Academy 2026",
+      "subtitle": "Chagua campus yako hapa chini. Usajili unakamilishwa kwa simu kupitia ofisi ya academy — hakuna fomu ya mtandaoni."
     },
-    "form": {
-      "playerName": "Jina kamili la mchezaji",
-      "age": "Umri",
-      "dob": "Tarehe ya kuzaliwa",
-      "position": "Nafasi unayopenda",
-      "parentName": "Mzazi / mlezi mkuu",
-      "pickupName": "Anayeoruhusiwa kubeba (ikiwa ni tofauti)",
-      "pickupNote": "Andika wengine wanaoruhusiwa kumchukua mtoto baada ya mazoezi.",
-      "phone": "Nambari ya simu",
-      "email": "Barua pepe",
-      "experience": "Uzoefu wa klabu / mpira wa shule",
-      "program": "Maslahi ya mpango",
-      "health": "Taarifa za afya (moyo, asthma, sickle cell, mzio…)",
-      "healthHint": "Eleza kwa ukweli — hii inalinda mtoto wakati wa mazoezi.",
-      "emergencyPhone": "Simu ya dharura",
-      "notes": "Kingine chochote tunapaswa kujua?",
-      "selectProgram": "Chagua lengo",
-      "selectPosition": "Chagua nafasi",
-      "positions": {
-        "gk": "Kipa",
-        "def": "Mlinzi",
-        "mid": "Kiungo",
-        "fwd": "Mshambuliaji",
-        "flex": "Rafiki / bado sijasema"
+    "notice": {
+      "eyebrow": "Muhimu",
+      "phoneOnly": "Usajili unafanyika kwa kuwasiliana na ofisi husika kupitia simu.",
+      "intro": "Kila campus ina mzunguko wa mazoezi na ada ya mwezi. Vifurushi vya usajili (fomu, huduma ya kwanza, jezi, soksi) vimeorodheshwa kwa kila tawi. Piga nambari kwenye kadi ya campus yako kuhusu muda wa kuingia, hatua za malipo, na mahitaji ya ulinzi."
+    },
+    "costs": {
+      "total": "Jumla ya kifurushi cha usajili",
+      "monthlyLabel": "Ada ya mazoezi kwa mwezi",
+      "perMonth": "kwa mwezi"
+    },
+    "schedule": {
+      "title": "Mzunguko wa mazoezi"
+    },
+    "schedules": {
+      "monFri": {
+        "detail": "Mazoezi Jumatatu hadi Ijumaa.\nWikiendi zinahifadhiwa kwa mechi pale inapohitajika."
       },
-      "programs": {
-        "foundation": "Maendeleo ya vijana (wakati wa shule)",
-        "elite": "Mazoezi ya likizo",
-        "goalkeeper": "Msaada wa kipa",
-        "camps": "Maandalizi ya tamasha la kimataifa",
-        "unsure": "Sijui — nipe ushauri"
+      "wedSatSun": {
+        "detail": "Mazoezi Jumatano, Jumamosi, na Jumapili.\nKocha wako anathibitisha saa halisi; wikiendi zinaweza kujumuisha mechi pale inavyofaa."
       }
     },
-    "validation": {
-      "required": "Sehemu hii inahitajika",
-      "email": "Weka barua pepe halali",
-      "phone": "Weka nambari halali ya simu",
-      "age": "Weka umri halali (5–21)"
+    "branches": {
+      "kunduchi": {
+        "eyebrow": "Tawi 1",
+        "campus": "Campus ya Kunduchi",
+        "ageCategory": "Makundi ya usajili: U17 & U20",
+        "weekendNote": "Wikiendi zinahifadhiwa kwa mechi."
+      },
+      "mabwepande": {
+        "eyebrow": "Tawi 2",
+        "campus": "Campus ya Mabwepande",
+        "ageCategory": "Makundi ya usajili: U10 & U15",
+        "weekendNote": "Wikiendi zinaweza kujumuisha mechi pale inavyofaa."
+      },
+      "bunju": {
+        "eyebrow": "Tawi 3",
+        "campus": "Campus ya Bunju",
+        "ageCategory": "Makundi ya usajili: U10 & U15",
+        "weekendNote": "Wikiendi zinaweza kujumuisha mechi pale inavyofaa."
+      }
     },
-    "success": {
-      "title": "Taarifa zimepokelewa",
-      "body": "Ofisi itakagua usajili wako na kuwasiliana kuhusu ratiba, malipo, na taarifa za ulinzi."
+    "callOffice": "Piga ofisi hii",
+    "officeNote": "Tuma barua pepe {email}, jumbe WhatsApp, au piga {phone}. Unaweza pia kutembelea ukurasa wa mawasiliano kwa maelezo ya matawi.",
+    "cta": {
+      "contact": "Ukurasa wa mawasiliano",
+      "call": "Piga ofisi kuu"
     }
   },
   "contact": {
     "hero": {
       "title": "Wasiliana na AFROEURO",
-      "subtitle": "Usajili, ada, ushirikiano, au vyombo vya habari — tunajibu haraka iwezekanavyo."
+      "subtitle": "Wasiliana na ofisi ya campus kwa simu kwa usajili na maswali. Nambari rasmi ni sawa kwa matawi yote."
+    },
+    "branches": {
+      "sectionEyebrow": "Ofisi za campus",
+      "sectionTitle": "Mawasiliano ya matawi",
+      "sectionLead": "Kila campus hutumia simu na barua pepe rasmi zile zile. Kwa usajili na kuingia haraka, tafadhali piga simu.",
+      "inquiryNote": "Kwa usajili na maelezo zaidi, tafadhali wasiliana na ofisi ya tawi kupitia simu.",
+      "kunduchi": { "name": "Kituo cha Kunduchi" },
+      "mabwepande": { "name": "Kituo cha Mabwepande" },
+      "bunju": { "name": "Kituo cha Bunju" }
+    },
+    "labels": {
+      "phone": "Simu",
+      "email": "Barua pepe"
     },
     "card": {
-      "title": "Ofisi ya academy",
+      "sectionEyebrow": "Ofisi kuu",
+      "sectionTitle": "Mahali na saa",
+      "title": "Mahali na saa",
       "hours": "Jumatatu–Jumamosi · 09:00–18:00 (EAT)",
-      "whatsapp": "WhatsApp"
+      "whatsapp": "WhatsApp",
+      "note": "Simu na barua pepe rasmi ni zile zile kwa Kunduchi, Mabwepande, na Bunju. Taja campus yako unapopiga simu ili tukuongoze."
     },
     "form": {
       "name": "Jina kamili",

@@ -2,7 +2,7 @@ import { AcademyImageFigure } from "@/components/media/AcademyImageFigure";
 import { FadeIn } from "@/components/motion/FadeIn";
 import { PageHero } from "@/components/pages/PageHero";
 import { partnerClubs, partnerCountries, tournamentLocations } from "@/data/partnerships";
-import { getAboutImages } from "@/lib/unsplash";
+import { getAboutImages } from "@/data/site-images";
 import { getTranslations } from "next-intl/server";
 
 export default async function AboutPage() {

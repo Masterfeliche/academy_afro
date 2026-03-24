@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import { ACADEMY_PICTURE_FILES, picPath } from "@/data/pics";
+import { ACADEMY_PICTURE_FILES, siteImagePath } from "@/data/site-images";
 
 type Props = {
   /** Starting index into `ACADEMY_PICTURE_FILES` (wraps). */
@@ -33,7 +33,7 @@ export function ImageStrip({
           className="relative h-44 w-64 shrink-0 overflow-hidden rounded-2xl border border-brand-border/40 shadow-card sm:h-52 sm:w-80"
         >
           <Image
-            src={picPath(file)}
+            src={siteImagePath(file)}
             alt=""
             fill
             sizes="320px"

@@ -3,9 +3,6 @@ export const siteConfig = {
   brandName: "AFROEURO Soccer Academy",
   legalName: "Afro Euro Sports Agency",
   taglineKey: "site.tagline",
-  email: "info@afroeuro.tz",
-  phone: "+255 000 000 000",
-  whatsapp: "https://wa.me/255000000000",
   addressLine1: "Dar es Salaam",
   addressLine2: "Tanzania",
   social: {
@@ -24,7 +21,7 @@ export type NavKey =
   | "donation"
   | "gallery"
   | "coaches"
-  | "trials"
+  | "registration"
   | "contact";
 
 export const mainNav: { href: string; key: NavKey }[] = [
@@ -35,6 +32,6 @@ export const mainNav: { href: string; key: NavKey }[] = [
   { href: "/donation", key: "donation" },
   { href: "/gallery", key: "gallery" },
   { href: "/coaches", key: "coaches" },
-  { href: "/trials", key: "trials" },
+  { href: "/registration", key: "registration" },
   { href: "/contact", key: "contact" },
 ];
