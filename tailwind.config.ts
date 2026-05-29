@@ -1,26 +1,17 @@
 import type { Config } from "tailwindcss";
 
 const config: Config = {
-  content: [
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-  ],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       colors: {
         brand: {
-          /** Deep navy page background */
           base: "#040A14",
-          /** Cards, panels, nav chrome */
           surface: "#0C1829",
-          /** Slightly lifted surfaces */
           elevated: "#141E2E",
-          /** Brand navy — buttons, key UI */
           primary: "#0B1F5C",
           accent: "#F47A20",
-          /** Primary text on dark */
           ink: "#D1D9E6",
-          /** Headlines / high emphasis */
           frost: "#F1F5F9",
           muted: "#8B9AAB",
           border: "#1E293B",

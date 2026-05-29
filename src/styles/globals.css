@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --font-display: "Bebas Neue", system-ui, sans-serif;
+  --font-geist-sans: "DM Sans", system-ui, sans-serif;
+  --ae-primary: #0b1f5c;
+  --ae-accent: #f47a20;
+  --ae-base: #040a14;
+  --ae-surface: #0c1829;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  @apply bg-brand-base font-sans text-brand-ink antialiased;
+}
+
+::selection {
+  background: rgba(244, 122, 32, 0.35);
+}
+
+@layer utilities {
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .glass {
+    @apply border border-white/10 bg-white/5 backdrop-blur-xl;
+  }
+  .gradient-hero {
+    background: linear-gradient(
+      120deg,
+      rgba(4, 10, 20, 0.94) 0%,
+      rgba(11, 31, 92, 0.5) 45%,
+      rgba(4, 10, 20, 0.92) 100%
+    );
+  }
+}

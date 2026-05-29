@@ -1,0 +1,11 @@
+export { shared } from "./shared";
+export { home } from "./home";
+export { about } from "./about";
+export { programs } from "./programs";
+export { fees } from "./fees";
+export { donation } from "./donation";
+export { gallery } from "./gallery";
+export { coachesPage } from "./coachesPage";
+export { registration } from "./registration";
+export { contact } from "./contact";
+export { testimonials } from "./testimonials";
